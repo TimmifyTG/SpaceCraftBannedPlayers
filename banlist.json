@@ -1,10 +1,4 @@
 [
-  {
-    "id": "abc123xyz987fakePlayerID",
-    "reason": "Cheating detected"
-  },
-  {
-    "id": "y7NFjXtCDcTFEKQjghk6WatlT2Lv",
-    "reason": "Cheating"
-  }
+  { "PlayerId": "y7NFjXtCDcTFEKQjghk6WatlT2Lv", "Reason": "Cheating" },
+  { "PlayerId": "def456", "Reason": "Toxic behaviour" }
 ]
