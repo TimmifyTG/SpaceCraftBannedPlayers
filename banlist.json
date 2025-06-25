@@ -1,5 +1,10 @@
-{
-  "CbsiBtGMrrGsL2okZTbRQns1PQnc": "Cheating",
-  "y7NFjXtCDcTFEKQjghk6WatlT2Lv": "Cheat Engine",
-  "ABCDEFG123456": "Toxic Behavior"
-}
+[
+  {
+    "id": "abc123xyz987fakePlayerID",
+    "reason": "Cheating detected"
+  },
+  {
+    "id": "y7NFjXtCDcTFEKQjghk6WatlT2Lv",
+    "reason": "Cheating"
+  }
+]
