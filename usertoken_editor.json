@@ -1,6 +1,6 @@
 [
-  { "PlayerId": "y7NFjXtCDcTFEKQjghk6WatlT2Lv", "Token": "1432", "XP": "50000", "Level": "73", "Coins": "2000000" },
-  { "PlayerId": "CbsiBtGMrrGsL2okZTbRQns1PQnc_", "Token": "9999", "XP": "X", "Level": "X", "Coins": "X" },
-  { "PlayerId": "ru9NMyocX7j1wvwSJeuKZXwPZ1eZ_", "Token": "9999", "XP": "X", "Level": "X", "Coins": "X" },
-  { "PlayerId": "def456", "Token": "9999", "XP": "X", "Level": "X", "Coins": "X" }
+  { "PlayerId": "y7NFjXtCDcTFEKQjghk6WatlT2Lv", "Token": "5555", "XP": "50000", "Level": "73", "Coins": "X", "Playername": "Shyx" },
+  { "PlayerId": "CbsiBtGMrrGsL2okZTbRQns1PQnc_", "Token": "9999", "XP": "X", "Level": "X", "Coins": "X", "Playername": "" },
+  { "PlayerId": "ru9NMyocX7j1wvwSJeuKZXwPZ1eZ_", "Token": "9999", "XP": "X", "Level": "X", "Coins": "X", "Playername": "" },
+  { "PlayerId": "def456", "Token": "9999", "XP": "X", "Level": "X", "Coins": "X", "Playername": "" }
 ]
